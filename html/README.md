@@ -6,15 +6,5 @@
 ## !
 <p>Al escribir el simbolo de cierre de exclamación VSC nos añadirá directamente toda la estructura básica de nuestro archivo html.</p>
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
-</html>
+![alt text](image.png)
 
