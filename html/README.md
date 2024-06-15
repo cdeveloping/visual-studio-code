@@ -6,5 +6,5 @@
 ## !
 <p>Al escribir el simbolo de cierre de exclamación VSC nos añadirá directamente toda la estructura básica de nuestro archivo html.</p>
 
-![alt text](image.png)
+![alt text](estructura_basica_html.png)
 
